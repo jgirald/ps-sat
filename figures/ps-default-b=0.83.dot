@@ -1,0 +1,903 @@
+graph{size="2,2";
+node [style=filled,width=0.05,height=0.05];
+n1 [color=red shape="ellipse" pos="20.7238,-32.5704!"]
+n2 [color=red shape="ellipse" pos="-28.8007,22.5195!"]
+n3 [color=red shape="ellipse" pos="8.15009,-38.6224!"]
+n4 [color=red shape="ellipse" pos="7.17177,-22.8315!"]
+n5 [color=red shape="ellipse" pos="26.4973,-16.4335!"]
+n6 [color=red shape="ellipse" pos="11.9736,35.0089!"]
+n7 [color=red shape="ellipse" pos="-19.938,33.6059!"]
+n8 [color=red shape="ellipse" pos="3.9378,-34.2288!"]
+n9 [color=red shape="ellipse" pos="-6.50333,36.8863!"]
+n10 [color=red shape="ellipse" pos="-37.5159,-13.2329!"]
+n11 [color=red shape="ellipse" pos="-25.6574,3.66852!"]
+n12 [color=red shape="ellipse" pos="-27.3934,-28.7594!"]
+n13 [color=red shape="ellipse" pos="-22.7988,25.9309!"]
+n14 [color=red shape="ellipse" pos="-39.6504,-3.34649!"]
+n15 [color=red shape="ellipse" pos="31.9415,-9.88591!"]
+n16 [color=red shape="ellipse" pos="29.8686,-17.3629!"]
+n17 [color=red shape="ellipse" pos="-26.2209,-30.0112!"]
+n18 [color=red shape="ellipse" pos="-7.80328,-37.44!"]
+n19 [color=red shape="ellipse" pos="24.1931,29.8514!"]
+n20 [color=red shape="ellipse" pos="-27.607,-21.9665!"]
+n21 [color=red shape="ellipse" pos="36.0926,3.70956!"]
+n22 [color=red shape="ellipse" pos="1.80651,40.3929!"]
+n23 [color=red shape="ellipse" pos="25.9104,30.2337!"]
+n24 [color=red shape="ellipse" pos="9.7579,-27.5499!"]
+n25 [color=red shape="ellipse" pos="21.6556,32.5999!"]
+n26 [color=red shape="ellipse" pos="-28.5913,20.5147!"]
+n27 [color=red shape="ellipse" pos="24.6663,26.1977!"]
+n28 [color=red shape="ellipse" pos="29.2484,23.8299!"]
+n29 [color=red shape="ellipse" pos="37.936,-0.256355!"]
+n30 [color=red shape="ellipse" pos="7.56554,37.4281!"]
+n31 [color=red shape="ellipse" pos="-27.0267,-2.20094!"]
+n32 [color=red shape="ellipse" pos="18.8251,-30.0325!"]
+n33 [color=red shape="ellipse" pos="-25.0306,-21.4162!"]
+n34 [color=red shape="ellipse" pos="-6.44005,21.6422!"]
+n35 [color=red shape="ellipse" pos="-24.7944,-29.0499!"]
+n36 [color=red shape="ellipse" pos="-38.5775,-5.93309!"]
+n37 [color=red shape="ellipse" pos="-39.0906,1.57696!"]
+n38 [color=red shape="ellipse" pos="35.8607,-6.19486!"]
+n39 [color=red shape="ellipse" pos="-8.34814,30.503!"]
+n40 [color=red shape="ellipse" pos="4.75896,-35.25!"]
+n41 [color=red shape="ellipse" pos="-34.8228,-5.90746!"]
+n42 [color=red shape="ellipse" pos="4.50572,-35.8224!"]
+n43 [color=red shape="ellipse" pos="-27.7715,20.1163!"]
+n44 [color=red shape="ellipse" pos="16.6178,-13.4805!"]
+n45 [color=red shape="ellipse" pos="-7.27628,34.2519!"]
+n46 [color=red shape="ellipse" pos="-3.81542,5.08443!"]
+n47 [color=red shape="ellipse" pos="13.1013,-34.5243!"]
+n48 [color=red shape="ellipse" pos="29.6111,-16.5155!"]
+n49 [color=red shape="ellipse" pos="34.9954,16.4019!"]
+n50 [color=red shape="ellipse" pos="32.1444,-10.5948!"]
+n51 [color=red shape="ellipse" pos="-18.3973,-3.03191!"]
+n52 [color=red shape="ellipse" pos="28.5865,17.163!"]
+n53 [color=red shape="ellipse" pos="11.9879,31.5533!"]
+n54 [color=red shape="ellipse" pos="-5.29925,-8.73691!"]
+n55 [color=red shape="ellipse" pos="29.6441,-24.4508!"]
+n56 [color=red shape="ellipse" pos="-18.0036,25.1458!"]
+n57 [color=red shape="ellipse" pos="33.0955,14.1176!"]
+n58 [color=red shape="ellipse" pos="32.2852,4.08331!"]
+n59 [color=red shape="ellipse" pos="-20.3589,5.54184!"]
+n60 [color=red shape="ellipse" pos="29.1853,12.2171!"]
+n61 [color=red shape="ellipse" pos="1.94953,26.4262!"]
+n62 [color=red shape="ellipse" pos="30.9508,-5.77647!"]
+n63 [color=red shape="ellipse" pos="0,-0!"]
+n64 [color=red shape="ellipse" pos="22.0166,-29.9379!"]
+n65 [color=red shape="ellipse" pos="-3.65038,34.733!"]
+n66 [color=red shape="ellipse" pos="-37.2171,-9.49602!"]
+n67 [color=red shape="ellipse" pos="-24.837,24.7725!"]
+n68 [color=red shape="ellipse" pos="2.0864,-32.3554!"]
+n69 [color=red shape="ellipse" pos="-32.983,-2.60319!"]
+n70 [color=red shape="ellipse" pos="-19.9829,-35.1486!"]
+n71 [color=red shape="ellipse" pos="-11.8927,-2.39332!"]
+n72 [color=red shape="ellipse" pos="14.0399,3.53723!"]
+n73 [color=red shape="ellipse" pos="-33.2988,13.7591!"]
+n74 [color=red shape="ellipse" pos="32.1358,-14.6718!"]
+n75 [color=red shape="ellipse" pos="23.0888,-10.7216!"]
+n76 [color=red shape="ellipse" pos="-4.5973,-24.9087!"]
+n77 [color=red shape="ellipse" pos="-7.668,35.0345!"]
+n78 [color=red shape="ellipse" pos="-2.85645,-39.5817!"]
+n79 [color=red shape="ellipse" pos="-23.8699,-28.8459!"]
+n80 [color=red shape="ellipse" pos="-19.934,26.0184!"]
+n81 [color=red shape="ellipse" pos="-12.2692,-29.8118!"]
+n82 [color=red shape="ellipse" pos="19.5773,33.5707!"]
+n83 [color=red shape="ellipse" pos="-37.1965,14.6989!"]
+n84 [color=red shape="ellipse" pos="29.1396,-27.338!"]
+n85 [color=red shape="ellipse" pos="18.8155,-34.6359!"]
+n86 [color=red shape="ellipse" pos="-18.2939,33.1101!"]
+n87 [color=red shape="ellipse" pos="3.88717,29.2441!"]
+n88 [color=red shape="ellipse" pos="26.853,-21.2727!"]
+n89 [color=red shape="ellipse" pos="-14.9171,20.4342!"]
+n90 [color=red shape="ellipse" pos="-12.8221,-30.5043!"]
+n91 [color=red shape="ellipse" pos="38.4799,-10.7955!"]
+n92 [color=red shape="ellipse" pos="-27.8841,-17.3634!"]
+n93 [color=red shape="ellipse" pos="-21.5901,-32.7797!"]
+n94 [color=red shape="ellipse" pos="25.3329,-31.1461!"]
+n95 [color=red shape="ellipse" pos="-21.8624,8.72592!"]
+n96 [color=red shape="ellipse" pos="29.0147,-15.0211!"]
+n97 [color=red shape="ellipse" pos="-30.5207,22.6359!"]
+n98 [color=red shape="ellipse" pos="14.9695,-34.7319!"]
+n99 [color=red shape="ellipse" pos="-15.857,-36.1553!"]
+n100 [color=red shape="ellipse" pos="22.8139,-14.2834!"]
+c1 [color=blue shape="box" pos="-55.6211,6.14393!"]
+c2 [color=blue shape="box" pos="12.425,56.9717!"]
+c3 [color=blue shape="box" pos="45.3428,-14.6533!"]
+c4 [color=blue shape="box" pos="43.4656,-23.8498!"]
+c5 [color=blue shape="box" pos="31.7187,42.3339!"]
+c6 [color=blue shape="box" pos="38.7187,-35.8761!"]
+c7 [color=blue shape="box" pos="-34.0978,-41.7917!"]
+c8 [color=blue shape="box" pos="-38.3369,17.4685!"]
+c9 [color=blue shape="box" pos="-37.4852,-35.0226!"]
+c10 [color=blue shape="box" pos="-9.3989,47.549!"]
+c11 [color=blue shape="box" pos="12.2087,-53.0475!"]
+c12 [color=blue shape="box" pos="-20.4204,54.0843!"]
+c13 [color=blue shape="box" pos="-40.7437,14.0832!"]
+c14 [color=blue shape="box" pos="8.02897,53.079!"]
+c15 [color=blue shape="box" pos="21.8928,52.885!"]
+c16 [color=blue shape="box" pos="-6.00406,36.0936!"]
+c17 [color=blue shape="box" pos="-45.7966,-16.9586!"]
+c18 [color=blue shape="box" pos="-36.8171,21.3074!"]
+c19 [color=blue shape="box" pos="26.2868,47.5372!"]
+c20 [color=blue shape="box" pos="44.5466,-29.5414!"]
+c21 [color=blue shape="box" pos="43.6638,33.0725!"]
+c22 [color=blue shape="box" pos="37.583,38.0943!"]
+c23 [color=blue shape="box" pos="-30.3443,0.868866!"]
+c24 [color=blue shape="box" pos="3.47925,-52.7854!"]
+c25 [color=blue shape="box" pos="52.706,-5.06517!"]
+c26 [color=blue shape="box" pos="40.8591,-17.6801!"]
+c27 [color=blue shape="box" pos="-7.60751,-17.4131!"]
+c28 [color=blue shape="box" pos="-35.6468,32.1553!"]
+c29 [color=blue shape="box" pos="-0.0167835,-11.6585!"]
+c30 [color=blue shape="box" pos="-39.2719,42.5304!"]
+c31 [color=blue shape="box" pos="-14.6816,51.5481!"]
+c32 [color=blue shape="box" pos="6.23717,55.7299!"]
+c33 [color=blue shape="box" pos="-49.5741,-29.1034!"]
+c34 [color=blue shape="box" pos="2.03544,57.9563!"]
+c35 [color=blue shape="box" pos="23.68,33.6437!"]
+c36 [color=blue shape="box" pos="-5.6695,-50.3343!"]
+c37 [color=blue shape="box" pos="36.3089,36.5262!"]
+c38 [color=blue shape="box" pos="15.2115,-54.301!"]
+c39 [color=blue shape="box" pos="27.855,46.4994!"]
+c40 [color=blue shape="box" pos="-1.80614,-58.3054!"]
+c41 [color=blue shape="box" pos="35.7482,18.0818!"]
+c42 [color=blue shape="box" pos="44.1412,-14.3105!"]
+c43 [color=blue shape="box" pos="54.3296,18.6123!"]
+c44 [color=blue shape="box" pos="-48.1864,-6.56887!"]
+c45 [color=blue shape="box" pos="25.7688,51.5397!"]
+c46 [color=blue shape="box" pos="3.48028,55.6655!"]
+c47 [color=blue shape="box" pos="15.1628,-48.961!"]
+c48 [color=blue shape="box" pos="-4.97071,-45.4281!"]
+c49 [color=blue shape="box" pos="-32.2023,-48.4004!"]
+c50 [color=blue shape="box" pos="36.8846,-7.66137!"]
+c51 [color=blue shape="box" pos="-36.6361,-43.9799!"]
+c52 [color=blue shape="box" pos="3.29806,-53.8527!"]
+c53 [color=blue shape="box" pos="46.098,30.6889!"]
+c54 [color=blue shape="box" pos="38.3152,43.4064!"]
+c55 [color=blue shape="box" pos="-41.4218,-5.28834!"]
+c56 [color=blue shape="box" pos="40.5839,21.7277!"]
+c57 [color=blue shape="box" pos="36.9225,17.3479!"]
+c58 [color=blue shape="box" pos="12.0119,41.0131!"]
+c59 [color=blue shape="box" pos="-52.4218,12.962!"]
+c60 [color=blue shape="box" pos="17.5188,-37.4262!"]
+c61 [color=blue shape="box" pos="-34.0573,-16.9022!"]
+c62 [color=blue shape="box" pos="1.53831,-43.8518!"]
+c63 [color=blue shape="box" pos="55.0688,18.6376!"]
+c64 [color=blue shape="box" pos="8.70359,13.3058!"]
+c65 [color=blue shape="box" pos="40.4082,-0.00163225!"]
+c66 [color=blue shape="box" pos="10.6081,35.9465!"]
+c67 [color=blue shape="box" pos="39.2543,-32.4924!"]
+c68 [color=blue shape="box" pos="38.3196,38.5459!"]
+c69 [color=blue shape="box" pos="57.7912,-0.799262!"]
+c70 [color=blue shape="box" pos="33.7001,11.9079!"]
+c71 [color=blue shape="box" pos="36.9674,-39.0997!"]
+c72 [color=blue shape="box" pos="28.9041,14.1214!"]
+c73 [color=blue shape="box" pos="49.3452,1.29058!"]
+c74 [color=blue shape="box" pos="45.7587,-24.0189!"]
+c75 [color=blue shape="box" pos="-41.8768,-28.0353!"]
+c76 [color=blue shape="box" pos="19.6633,42.0417!"]
+c77 [color=blue shape="box" pos="23.1417,38.1024!"]
+c78 [color=blue shape="box" pos="-44.8978,36.3465!"]
+c79 [color=blue shape="box" pos="45.2761,-27.5395!"]
+c80 [color=blue shape="box" pos="17.8576,-38.1388!"]
+c81 [color=blue shape="box" pos="-15.8747,19.4128!"]
+c82 [color=blue shape="box" pos="-47.5761,-16.2839!"]
+c83 [color=blue shape="box" pos="-49.7169,-27.1007!"]
+c84 [color=blue shape="box" pos="-53.3896,16.3969!"]
+c85 [color=blue shape="box" pos="-18.5401,-44.6704!"]
+c86 [color=blue shape="box" pos="47.5366,34.3734!"]
+c87 [color=blue shape="box" pos="-24.8737,-4.87592!"]
+c88 [color=blue shape="box" pos="2.39193,-52.1565!"]
+c89 [color=blue shape="box" pos="-14.2644,40.1784!"]
+c90 [color=blue shape="box" pos="54.4895,-2.66284!"]
+c91 [color=blue shape="box" pos="-48.7922,-25.6269!"]
+c92 [color=blue shape="box" pos="34.1515,-33.0478!"]
+c93 [color=blue shape="box" pos="-0.791575,-57.5044!"]
+c94 [color=blue shape="box" pos="-37.4577,-39.3449!"]
+c95 [color=blue shape="box" pos="46.7557,10.581!"]
+c96 [color=blue shape="box" pos="-0.397002,-28.756!"]
+c97 [color=blue shape="box" pos="27.9841,-48.5366!"]
+c98 [color=blue shape="box" pos="50.3959,-25.528!"]
+c99 [color=blue shape="box" pos="38.5343,-39.3806!"]
+c100 [color=blue shape="box" pos="26.739,-47.8958!"]
+c101 [color=blue shape="box" pos="57.1945,-7.43204!"]
+c102 [color=blue shape="box" pos="-1.82968,-47.0296!"]
+c103 [color=blue shape="box" pos="45.8586,-31.8584!"]
+c104 [color=blue shape="box" pos="46.3266,-4.79191!"]
+c105 [color=blue shape="box" pos="-28.218,-49.0269!"]
+c106 [color=blue shape="box" pos="-42.0196,0.72387!"]
+c107 [color=blue shape="box" pos="27.4932,45.8079!"]
+c108 [color=blue shape="box" pos="14.1609,-25.7541!"]
+c109 [color=blue shape="box" pos="27.4339,-23.0022!"]
+c110 [color=blue shape="box" pos="35.5736,18.6909!"]
+c111 [color=blue shape="box" pos="-26.2715,-36.0199!"]
+c112 [color=blue shape="box" pos="0.476121,38.7412!"]
+c113 [color=blue shape="box" pos="-36.6759,-38.8009!"]
+c114 [color=blue shape="box" pos="3.94989,29.9592!"]
+c115 [color=blue shape="box" pos="-17.5591,-54.7662!"]
+c116 [color=blue shape="box" pos="-23.7073,53.0674!"]
+c117 [color=blue shape="box" pos="-14.1849,26.2785!"]
+c118 [color=blue shape="box" pos="6.74174,57.5115!"]
+c119 [color=blue shape="box" pos="45.6629,22.964!"]
+c120 [color=blue shape="box" pos="-30.2291,-33.4623!"]
+c121 [color=blue shape="box" pos="8.79121,52.6262!"]
+c122 [color=blue shape="box" pos="-23.8012,-33.2544!"]
+c123 [color=blue shape="box" pos="-53.1939,-3.57692!"]
+c124 [color=blue shape="box" pos="50.4449,-9.14224!"]
+c125 [color=blue shape="box" pos="-10.6286,55.6375!"]
+c126 [color=blue shape="box" pos="-55.5012,-16.544!"]
+c127 [color=blue shape="box" pos="-10.0299,-51.2966!"]
+c128 [color=blue shape="box" pos="40.3397,34.797!"]
+c129 [color=blue shape="box" pos="-54.6383,9.89594!"]
+c130 [color=blue shape="box" pos="-36.5827,-24.0435!"]
+c131 [color=blue shape="box" pos="42.6225,-15.5516!"]
+c132 [color=blue shape="box" pos="-51.5658,16.4267!"]
+c133 [color=blue shape="box" pos="-27.1006,44.9492!"]
+c134 [color=blue shape="box" pos="10.2113,-14.4935!"]
+c135 [color=blue shape="box" pos="-53.1345,23.1865!"]
+c136 [color=blue shape="box" pos="48.1041,0.976833!"]
+c137 [color=blue shape="box" pos="-24.0838,35.4655!"]
+c138 [color=blue shape="box" pos="-42.5164,-30.2744!"]
+c139 [color=blue shape="box" pos="24.7479,-42.9206!"]
+c140 [color=blue shape="box" pos="4.73659,46.6391!"]
+c141 [color=blue shape="box" pos="-24.7436,-48.9232!"]
+c142 [color=blue shape="box" pos="-53.9883,5.80581!"]
+c143 [color=blue shape="box" pos="-50.2231,5.72496!"]
+c144 [color=blue shape="box" pos="-15.4186,42.8642!"]
+c145 [color=blue shape="box" pos="-13.0162,-53.6036!"]
+c146 [color=blue shape="box" pos="19.6071,43.4655!"]
+c147 [color=blue shape="box" pos="-31.215,-29.993!"]
+c148 [color=blue shape="box" pos="54.0944,14.2026!"]
+c149 [color=blue shape="box" pos="-38.7055,23.2252!"]
+c150 [color=blue shape="box" pos="-18.2699,-51.7479!"]
+c151 [color=blue shape="box" pos="-8.02182,-15.487!"]
+c152 [color=blue shape="box" pos="-36.9803,-43.3756!"]
+c153 [color=blue shape="box" pos="-32.7118,46.7838!"]
+c154 [color=blue shape="box" pos="21.3986,49.1291!"]
+c155 [color=blue shape="box" pos="-36.6406,-29.9666!"]
+c156 [color=blue shape="box" pos="-38.114,-39.1618!"]
+c157 [color=blue shape="box" pos="-6.31392,-51.8911!"]
+c158 [color=blue shape="box" pos="-26.9644,50.2572!"]
+c159 [color=blue shape="box" pos="-2.69152,-44.7472!"]
+c160 [color=blue shape="box" pos="13.3288,43.0495!"]
+c161 [color=blue shape="box" pos="28.6062,-15.5131!"]
+c162 [color=blue shape="box" pos="-20.7385,-47.7234!"]
+c163 [color=blue shape="box" pos="-32.8849,-47.1866!"]
+c164 [color=blue shape="box" pos="-2.45344,53.7067!"]
+c165 [color=blue shape="box" pos="-51.2694,-10.5976!"]
+c166 [color=blue shape="box" pos="48.3301,29.6768!"]
+c167 [color=blue shape="box" pos="-3.83994,58.1368!"]
+c168 [color=blue shape="box" pos="39.9193,-38.741!"]
+c169 [color=blue shape="box" pos="-18.7553,-44.1953!"]
+c170 [color=blue shape="box" pos="40.2984,26.9229!"]
+c171 [color=blue shape="box" pos="20.9926,17.6519!"]
+c172 [color=blue shape="box" pos="-13.7599,16.2962!"]
+c173 [color=blue shape="box" pos="-5.18448,-2.71137!"]
+c174 [color=blue shape="box" pos="-42.9113,-28.4629!"]
+c175 [color=blue shape="box" pos="-23.2292,-40.17!"]
+c176 [color=blue shape="box" pos="-13.3247,53.6018!"]
+c177 [color=blue shape="box" pos="9.13968,-55.9584!"]
+c178 [color=blue shape="box" pos="-12.3941,50.3966!"]
+c179 [color=blue shape="box" pos="-24.5065,44.8156!"]
+c180 [color=blue shape="box" pos="12.2719,30.8542!"]
+c181 [color=blue shape="box" pos="41.9237,-4.13227!"]
+c182 [color=blue shape="box" pos="51.4056,1.15604!"]
+c183 [color=blue shape="box" pos="27.0513,-51.1757!"]
+c184 [color=blue shape="box" pos="-13.3777,23.8072!"]
+c185 [color=blue shape="box" pos="12.8584,31.4337!"]
+c186 [color=blue shape="box" pos="-41.1075,17.3316!"]
+c187 [color=blue shape="box" pos="53.4204,-14.2048!"]
+c188 [color=blue shape="box" pos="46.9351,-26.2151!"]
+c189 [color=blue shape="box" pos="3.25779,-34.7635!"]
+c190 [color=blue shape="box" pos="-18.3346,-55.3321!"]
+c191 [color=blue shape="box" pos="41.4587,39.4965!"]
+c192 [color=blue shape="box" pos="-15.9913,-37.4601!"]
+c193 [color=blue shape="box" pos="-38.1995,34.1789!"]
+c194 [color=blue shape="box" pos="8.49293,-55.2535!"]
+c195 [color=blue shape="box" pos="52.6085,-19.6711!"]
+c196 [color=blue shape="box" pos="7.81393,-4.53719!"]
+c197 [color=blue shape="box" pos="34.4096,-40.5885!"]
+c198 [color=blue shape="box" pos="16.0051,53.2712!"]
+c199 [color=blue shape="box" pos="15.0937,-53.6386!"]
+c200 [color=blue shape="box" pos="-55.2599,-17.2064!"]
+c201 [color=blue shape="box" pos="-10.332,33.7442!"]
+c202 [color=blue shape="box" pos="46.5475,-31.6625!"]
+c203 [color=blue shape="box" pos="49.0125,-31.2587!"]
+c204 [color=blue shape="box" pos="25.1541,-25.4789!"]
+c205 [color=blue shape="box" pos="-45.7659,0.533748!"]
+c206 [color=blue shape="box" pos="-39.3926,-20.447!"]
+c207 [color=blue shape="box" pos="29.481,48.2833!"]
+c208 [color=blue shape="box" pos="-5.26078,34.7524!"]
+c209 [color=blue shape="box" pos="36.7653,-41.9252!"]
+c210 [color=blue shape="box" pos="-45.8006,2.18908!"]
+c211 [color=blue shape="box" pos="-40.0873,9.31505!"]
+c212 [color=blue shape="box" pos="33.8019,-47.1806!"]
+c213 [color=blue shape="box" pos="-55.9317,1.41396!"]
+c214 [color=blue shape="box" pos="-9.00974,34.1507!"]
+c215 [color=blue shape="box" pos="24.7645,52.9908!"]
+c216 [color=blue shape="box" pos="-22.9078,-52.196!"]
+c217 [color=blue shape="box" pos="-6.73976,-47.4635!"]
+c218 [color=blue shape="box" pos="35.3133,42.1758!"]
+c219 [color=blue shape="box" pos="-40.5399,-30.6814!"]
+c220 [color=blue shape="box" pos="-50.2876,2.39629!"]
+c221 [color=blue shape="box" pos="28.6276,-46.3012!"]
+c222 [color=blue shape="box" pos="-7.63687,-46.7929!"]
+c223 [color=blue shape="box" pos="23.3589,48.2229!"]
+c224 [color=blue shape="box" pos="6.70778,37.6862!"]
+c225 [color=blue shape="box" pos="-33.5807,0.311123!"]
+c226 [color=blue shape="box" pos="35.4197,33.7924!"]
+c227 [color=blue shape="box" pos="25.0625,29.6216!"]
+c228 [color=blue shape="box" pos="-34.8726,41.9159!"]
+c229 [color=blue shape="box" pos="-16.7609,32.994!"]
+c230 [color=blue shape="box" pos="52.2354,-23.8245!"]
+c231 [color=blue shape="box" pos="44.7098,-28.9745!"]
+c232 [color=blue shape="box" pos="-31.0397,-29.927!"]
+c233 [color=blue shape="box" pos="28.3589,-46.7194!"]
+c234 [color=blue shape="box" pos="21.7153,-47.5927!"]
+c235 [color=blue shape="box" pos="-47.0318,1.16028!"]
+c236 [color=blue shape="box" pos="-29.5654,50.0127!"]
+c237 [color=blue shape="box" pos="-44.1391,34.5377!"]
+c238 [color=blue shape="box" pos="-20.408,-31.6419!"]
+c239 [color=blue shape="box" pos="-20.1882,-16.4638!"]
+c240 [color=blue shape="box" pos="-2.91088,51.964!"]
+c241 [color=blue shape="box" pos="28.7863,40.2718!"]
+c242 [color=blue shape="box" pos="38.7449,18.9945!"]
+c243 [color=blue shape="box" pos="39.5422,31.8216!"]
+c244 [color=blue shape="box" pos="-24.2964,-32.2362!"]
+c245 [color=blue shape="box" pos="-30.7137,35.4626!"]
+c246 [color=blue shape="box" pos="-11.9858,48.8819!"]
+c247 [color=blue shape="box" pos="-3.19723,5.69766!"]
+c248 [color=blue shape="box" pos="45.6959,29.4642!"]
+c249 [color=blue shape="box" pos="-34.0939,16.7482!"]
+c250 [color=blue shape="box" pos="46.7039,-20.3869!"]
+c251 [color=blue shape="box" pos="-29.3634,-17.0113!"]
+c252 [color=blue shape="box" pos="-5.45116,55.9362!"]
+c253 [color=blue shape="box" pos="-30.5262,-47.2746!"]
+c254 [color=blue shape="box" pos="4.0586,-54.7443!"]
+c255 [color=blue shape="box" pos="-57.5619,4.55683!"]
+c256 [color=blue shape="box" pos="31.5043,47.8113!"]
+c257 [color=blue shape="box" pos="22.9873,-20.7756!"]
+c258 [color=blue shape="box" pos="-19.8184,-19.9847!"]
+c259 [color=blue shape="box" pos="-51.955,-5.80684!"]
+c260 [color=blue shape="box" pos="10.8313,39.9311!"]
+c261 [color=blue shape="box" pos="-54.1861,-20.4988!"]
+c262 [color=blue shape="box" pos="-32.7052,16.3549!"]
+c263 [color=blue shape="box" pos="23.693,-43.1365!"]
+c264 [color=blue shape="box" pos="-42.1554,32.9593!"]
+c265 [color=blue shape="box" pos="1.93134,54.1604!"]
+c266 [color=blue shape="box" pos="-25.3365,48.9525!"]
+c267 [color=blue shape="box" pos="-6.79064,-52.0689!"]
+c268 [color=blue shape="box" pos="-31.9922,-38.0128!"]
+c269 [color=blue shape="box" pos="56.4706,-5.39367!"]
+c270 [color=blue shape="box" pos="-28.0058,45.2261!"]
+c271 [color=blue shape="box" pos="46.2874,-34.7262!"]
+c272 [color=blue shape="box" pos="28.6245,32.9134!"]
+c273 [color=blue shape="box" pos="-47.6978,29.9397!"]
+c274 [color=blue shape="box" pos="48.8248,1.65985!"]
+c275 [color=blue shape="box" pos="10.1839,-47.9876!"]
+c276 [color=blue shape="box" pos="5.4033,-34.9878!"]
+c277 [color=blue shape="box" pos="-15.3254,54.4339!"]
+c278 [color=blue shape="box" pos="36.9715,32.4579!"]
+c279 [color=blue shape="box" pos="37.0213,-41.7091!"]
+c280 [color=blue shape="box" pos="-10.5082,-57.0419!"]
+c281 [color=blue shape="box" pos="54.3487,17.3433!"]
+c282 [color=blue shape="box" pos="-53.9555,17.8672!"]
+c283 [color=blue shape="box" pos="55.12,-4.69817!"]
+c284 [color=blue shape="box" pos="-14.153,-52.262!"]
+c285 [color=blue shape="box" pos="12.669,50.504!"]
+c286 [color=blue shape="box" pos="-53.2526,8.81416!"]
+c287 [color=blue shape="box" pos="34.2995,-38.816!"]
+c288 [color=blue shape="box" pos="44.215,29.6117!"]
+c289 [color=blue shape="box" pos="44.3463,32.0323!"]
+c290 [color=blue shape="box" pos="-17.3768,15.7328!"]
+c291 [color=blue shape="box" pos="-17.857,52.955!"]
+c292 [color=blue shape="box" pos="-29.5177,-44.7034!"]
+c293 [color=blue shape="box" pos="14.1323,-36.2956!"]
+c294 [color=blue shape="box" pos="26.5942,28.9339!"]
+c295 [color=blue shape="box" pos="40.1808,13.4778!"]
+c296 [color=blue shape="box" pos="53.0303,18.5003!"]
+c297 [color=blue shape="box" pos="-54.9903,14.9636!"]
+c298 [color=blue shape="box" pos="10.7178,-54.5653!"]
+c299 [color=blue shape="box" pos="-14.8635,-39.0208!"]
+c300 [color=blue shape="box" pos="-51.1092,19.2905!"]
+c301 [color=blue shape="box" pos="34.4895,32.0273!"]
+c302 [color=blue shape="box" pos="-30.6083,-19.3268!"]
+c303 [color=blue shape="box" pos="-50.623,-27.2674!"]
+c304 [color=blue shape="box" pos="-35.2464,-6.70047!"]
+c305 [color=blue shape="box" pos="-42.4527,-28.8684!"]
+c306 [color=blue shape="box" pos="-29.4883,34.7836!"]
+c307 [color=blue shape="box" pos="-14.2416,40.1218!"]
+c308 [color=blue shape="box" pos="35.3798,-29.75!"]
+c309 [color=blue shape="box" pos="-53.903,7.98808!"]
+c310 [color=blue shape="box" pos="28.0657,50.9151!"]
+c311 [color=blue shape="box" pos="-33.6633,-27.7523!"]
+c312 [color=blue shape="box" pos="-51.211,-8.35763!"]
+c313 [color=blue shape="box" pos="-41.2109,-38.1793!"]
+c314 [color=blue shape="box" pos="-47.7448,-32.9746!"]
+c315 [color=blue shape="box" pos="4.01551,38.9653!"]
+c316 [color=blue shape="box" pos="22.3338,-40.7412!"]
+c317 [color=blue shape="box" pos="47.8547,22.5519!"]
+c318 [color=blue shape="box" pos="44.1535,31.5892!"]
+c319 [color=blue shape="box" pos="50.871,-26.4344!"]
+c320 [color=blue shape="box" pos="21.3347,38.606!"]
+c321 [color=blue shape="box" pos="-54.3771,6.26856!"]
+c322 [color=blue shape="box" pos="8.29089,53.4124!"]
+c323 [color=blue shape="box" pos="26.3709,-50.3637!"]
+c324 [color=blue shape="box" pos="-14.3642,54.7597!"]
+c325 [color=blue shape="box" pos="-34.9989,43.8589!"]
+c326 [color=blue shape="box" pos="16.658,-15.9856!"]
+c327 [color=blue shape="box" pos="-29.8144,44.3178!"]
+c328 [color=blue shape="box" pos="21.3633,-49.4454!"]
+c329 [color=blue shape="box" pos="-30.2529,-47.1103!"]
+c330 [color=blue shape="box" pos="54.6706,12.7!"]
+c331 [color=blue shape="box" pos="-2.16284,46.0542!"]
+c332 [color=blue shape="box" pos="5.83023,-32.4921!"]
+c333 [color=blue shape="box" pos="-40.3444,-40.8361!"]
+c334 [color=blue shape="box" pos="21.1777,-35.2493!"]
+c335 [color=blue shape="box" pos="-14.8214,38.7397!"]
+c336 [color=blue shape="box" pos="8.77845,47.6584!"]
+c337 [color=blue shape="box" pos="16.2148,47.87!"]
+c338 [color=blue shape="box" pos="-37.2508,-31.7917!"]
+c339 [color=blue shape="box" pos="41.9252,34.5651!"]
+c340 [color=blue shape="box" pos="-16.2977,-31.7909!"]
+c341 [color=blue shape="box" pos="9.55589,-46.4933!"]
+c342 [color=blue shape="box" pos="-10.9241,-56.2323!"]
+c343 [color=blue shape="box" pos="16.4812,51.1085!"]
+c344 [color=blue shape="box" pos="-29.3351,20.9806!"]
+c345 [color=blue shape="box" pos="-22.6624,51.7812!"]
+c346 [color=blue shape="box" pos="-51.0735,22.4802!"]
+c347 [color=blue shape="box" pos="5.89525,49.1366!"]
+c348 [color=blue shape="box" pos="-36.6461,32.0029!"]
+c349 [color=blue shape="box" pos="-48.3269,-10.1176!"]
+c350 [color=blue shape="box" pos="25.7359,37.7282!"]
+c351 [color=blue shape="box" pos="-50.356,-18.2715!"]
+c352 [color=blue shape="box" pos="31.7011,2.91212!"]
+c353 [color=blue shape="box" pos="-42.0754,39.4048!"]
+c354 [color=blue shape="box" pos="-37.1281,33.9261!"]
+c355 [color=blue shape="box" pos="-19.5882,53.9737!"]
+c356 [color=blue shape="box" pos="-4.32727,-54.5787!"]
+c357 [color=blue shape="box" pos="-3.34007,50.8218!"]
+c358 [color=blue shape="box" pos="-30.1639,-41.3306!"]
+c359 [color=blue shape="box" pos="-43.9037,-14.975!"]
+c360 [color=blue shape="box" pos="38.2754,-21.1704!"]
+c361 [color=blue shape="box" pos="-17.4828,-41.0972!"]
+c362 [color=blue shape="box" pos="19.5096,-49.4706!"]
+c363 [color=blue shape="box" pos="-15.0244,-44.1979!"]
+c364 [color=blue shape="box" pos="-14.4109,35.1335!"]
+c365 [color=blue shape="box" pos="-33.9524,-44.2797!"]
+c366 [color=blue shape="box" pos="51.3096,1.93678!"]
+c367 [color=blue shape="box" pos="-50.3647,-10.5819!"]
+c368 [color=blue shape="box" pos="23.4832,-35.0689!"]
+c369 [color=blue shape="box" pos="-42.0486,-38.721!"]
+c370 [color=blue shape="box" pos="-24.059,-30.1051!"]
+c371 [color=blue shape="box" pos="-46.0989,-5.38712!"]
+c372 [color=blue shape="box" pos="-33.9144,24.4102!"]
+c373 [color=blue shape="box" pos="-0,0!"]
+c374 [color=blue shape="box" pos="-11.2029,-56.5383!"]
+c375 [color=blue shape="box" pos="14.8186,-43.8231!"]
+c376 [color=blue shape="box" pos="-24.7825,-50.8396!"]
+c377 [color=blue shape="box" pos="31.165,44.5666!"]
+c378 [color=blue shape="box" pos="53.767,11.273!"]
+c379 [color=blue shape="box" pos="38.0284,16.0496!"]
+c380 [color=blue shape="box" pos="-10.8508,-25.3899!"]
+c381 [color=blue shape="box" pos="22.2601,53.8521!"]
+c382 [color=blue shape="box" pos="-41.1708,-38.158!"]
+c383 [color=blue shape="box" pos="-11.3289,-35.0924!"]
+c384 [color=blue shape="box" pos="-52.0732,-23.6425!"]
+c385 [color=blue shape="box" pos="42.9435,0.303684!"]
+c386 [color=blue shape="box" pos="58.5867,2.1025!"]
+c387 [color=blue shape="box" pos="-17.8403,49.3211!"]
+c388 [color=blue shape="box" pos="-3.96922,54.5022!"]
+c389 [color=blue shape="box" pos="-28.5929,-42.2832!"]
+c390 [color=blue shape="box" pos="35.5303,-44.3175!"]
+c391 [color=blue shape="box" pos="24.1202,52.2441!"]
+c392 [color=blue shape="box" pos="-30.0191,46.4244!"]
+c393 [color=blue shape="box" pos="-24.643,-43.1033!"]
+c394 [color=blue shape="box" pos="30.6237,-29.1184!"]
+c395 [color=blue shape="box" pos="-32.4905,-46.7299!"]
+c396 [color=blue shape="box" pos="-15.4845,36.9036!"]
+c397 [color=blue shape="box" pos="41.0584,-36.1913!"]
+c398 [color=blue shape="box" pos="18.4816,43.6571!"]
+c399 [color=blue shape="box" pos="26.5012,40.1456!"]
+c400 [color=blue shape="box" pos="-52.3687,-1.13899!"]
+c1 -- { n11 n71 n59 };
+c2 -- { n30 n87 n61 };
+c3 -- { n50 n15 n63 };
+c4 -- { n63 n48 n96 };
+c5 -- { n19 n25 n63 };
+c6 -- { n63 n84 n44 };
+c7 -- { n79 n54 n35 };
+c8 -- { n95 n73 n46 };
+c9 -- { n54 n33 n20 };
+c10 -- { n45 n77 n9 };
+c11 -- { n3 n4 n63 };
+c12 -- { n34 n46 n39 };
+c13 -- { n95 n59 n46 };
+c14 -- { n87 n61 n30 };
+c15 -- { n53 n6 n46 };
+c16 -- { n9 n34 n46 };
+c17 -- { n10 n71 n51 };
+c18 -- { n46 n95 n59 };
+c19 -- { n82 n63 n46 };
+c20 -- { n63 n100 n5 };
+c21 -- { n28 n63 n72 };
+c22 -- { n27 n63 n72 };
+c23 -- { n37 n71 n51 };
+c24 -- { n68 n8 n63 };
+c25 -- { n63 n72 n62 };
+c26 -- { n63 n75 n74 };
+c27 -- { n99 n90 n54 };
+c28 -- { n46 n67 n2 };
+c29 -- { n63 n68 n54 };
+c30 -- { n46 n13 n67 };
+c31 -- { n34 n39 n46 };
+c32 -- { n87 n61 n46 };
+c33 -- { n92 n71 n54 };
+c34 -- { n22 n61 n87 };
+c35 -- { n25 n63 n19 };
+c36 -- { n76 n54 n63 };
+c37 -- { n27 n63 n72 };
+c38 -- { n4 n63 n24 };
+c39 -- { n82 n25 n63 };
+c40 -- { n63 n78 n54 };
+c41 -- { n72 n49 n60 };
+c42 -- { n50 n15 n63 };
+c43 -- { n72 n60 n63 };
+c44 -- { n51 n71 n36 };
+c45 -- { n82 n53 n63 };
+c46 -- { n61 n22 n87 };
+c47 -- { n4 n24 n63 };
+c48 -- { n76 n78 n54 };
+c49 -- { n54 n93 n63 };
+c50 -- { n62 n63 n38 };
+c51 -- { n79 n35 n54 };
+c52 -- { n68 n63 n8 };
+c53 -- { n52 n72 n63 };
+c54 -- { n23 n27 n19 };
+c55 -- { n51 n71 n31 };
+c56 -- { n52 n72 n63 };
+c57 -- { n49 n60 n72 };
+c58 -- { n6 n53 n46 };
+c59 -- { n59 n11 n95 };
+c60 -- { n63 n98 n4 };
+c61 -- { n71 n54 n51 };
+c62 -- { n68 n63 n54 };
+c63 -- { n72 n63 n60 };
+c64 -- { n25 n82 n63 };
+c65 -- { n29 n63 n72 };
+c66 -- { n6 n53 n46 };
+c67 -- { n55 n44 n63 };
+c68 -- { n27 n63 n72 };
+c69 -- { n29 n63 n72 };
+c70 -- { n72 n60 n63 };
+c71 -- { n63 n44 n84 };
+c72 -- { n49 n72 n60 };
+c73 -- { n63 n72 n29 };
+c74 -- { n96 n63 n75 };
+c75 -- { n92 n54 n71 };
+c76 -- { n53 n63 n46 };
+c77 -- { n82 n25 n63 };
+c78 -- { n2 n46 n43 };
+c79 -- { n63 n5 n100 };
+c80 -- { n63 n98 n4 };
+c81 -- { n46 n89 n80 };
+c82 -- { n10 n71 n51 };
+c83 -- { n71 n92 n54 };
+c84 -- { n59 n95 n46 };
+c85 -- { n81 n90 n54 };
+c86 -- { n63 n72 n28 };
+c87 -- { n71 n51 n41 };
+c88 -- { n68 n63 n8 };
+c89 -- { n34 n46 n39 };
+c90 -- { n63 n29 n72 };
+c91 -- { n71 n92 n54 };
+c92 -- { n63 n84 n44 };
+c93 -- { n63 n68 n54 };
+c94 -- { n12 n54 n17 };
+c95 -- { n72 n63 n58 };
+c96 -- { n63 n68 n54 };
+c97 -- { n63 n85 n32 };
+c98 -- { n96 n63 n75 };
+c99 -- { n63 n44 n84 };
+c100 -- { n85 n63 n32 };
+c101 -- { n63 n62 n38 };
+c102 -- { n78 n63 n76 };
+c103 -- { n63 n44 n100 };
+c104 -- { n63 n62 n72 };
+c105 -- { n54 n70 n63 };
+c106 -- { n71 n37 n51 };
+c107 -- { n82 n25 n63 };
+c108 -- { n85 n63 n32 };
+c109 -- { n63 n44 n55 };
+c110 -- { n72 n52 n63 };
+c111 -- { n54 n93 n79 };
+c112 -- { n61 n22 n46 };
+c113 -- { n12 n54 n17 };
+c114 -- { n87 n61 n46 };
+c115 -- { n54 n76 n81 };
+c116 -- { n46 n34 n89 };
+c117 -- { n86 n46 n7 };
+c118 -- { n87 n61 n46 };
+c119 -- { n49 n72 n60 };
+c120 -- { n54 n17 n35 };
+c121 -- { n87 n30 n61 };
+c122 -- { n54 n93 n79 };
+c123 -- { n31 n69 n71 };
+c124 -- { n62 n38 n63 };
+c125 -- { n9 n45 n77 };
+c126 -- { n71 n51 n66 };
+c127 -- { n76 n18 n54 };
+c128 -- { n28 n63 n72 };
+c129 -- { n11 n59 n71 };
+c130 -- { n92 n54 n71 };
+c131 -- { n63 n50 n75 };
+c132 -- { n59 n95 n46 };
+c133 -- { n46 n7 n89 };
+c134 -- { n63 n64 n32 };
+c135 -- { n95 n73 n59 };
+c136 -- { n29 n63 n72 };
+c137 -- { n46 n89 n56 };
+c138 -- { n92 n54 n20 };
+c139 -- { n63 n85 n32 };
+c140 -- { n61 n87 n46 };
+c141 -- { n54 n90 n81 };
+c142 -- { n11 n71 n59 };
+c143 -- { n11 n71 n59 };
+c144 -- { n34 n46 n39 };
+c145 -- { n76 n54 n18 };
+c146 -- { n53 n63 n46 };
+c147 -- { n54 n33 n12 };
+c148 -- { n72 n63 n60 };
+c149 -- { n46 n95 n43 };
+c150 -- { n54 n81 n90 };
+c151 -- { n54 n70 n90 };
+c152 -- { n35 n79 n17 };
+c153 -- { n46 n56 n89 };
+c154 -- { n53 n6 n63 };
+c155 -- { n20 n33 n54 };
+c156 -- { n12 n54 n33 };
+c157 -- { n76 n54 n63 };
+c158 -- { n46 n86 n7 };
+c159 -- { n78 n76 n63 };
+c160 -- { n6 n53 n46 };
+c161 -- { n63 n48 n96 };
+c162 -- { n99 n90 n81 };
+c163 -- { n54 n93 n63 };
+c164 -- { n46 n65 n61 };
+c165 -- { n71 n51 n41 };
+c166 -- { n52 n72 n63 };
+c167 -- { n65 n46 n61 };
+c168 -- { n63 n84 n44 };
+c169 -- { n90 n81 n99 };
+c170 -- { n52 n72 n63 };
+c171 -- { n28 n63 n72 };
+c172 -- { n46 n13 n89 };
+c173 -- { n71 n92 n54 };
+c174 -- { n92 n54 n71 };
+c175 -- { n54 n70 n63 };
+c176 -- { n34 n39 n77 };
+c177 -- { n40 n42 n63 };
+c178 -- { n34 n39 n77 };
+c179 -- { n86 n46 n7 };
+c180 -- { n53 n6 n46 };
+c181 -- { n63 n72 n62 };
+c182 -- { n63 n29 n72 };
+c183 -- { n85 n63 n4 };
+c184 -- { n86 n46 n7 };
+c185 -- { n53 n6 n46 };
+c186 -- { n95 n73 n83 };
+c187 -- { n63 n91 n15 };
+c188 -- { n48 n63 n16 };
+c189 -- { n8 n68 n42 };
+c190 -- { n54 n81 n76 };
+c191 -- { n27 n63 n72 };
+c192 -- { n90 n81 n99 };
+c193 -- { n46 n67 n2 };
+c194 -- { n40 n42 n8 };
+c195 -- { n63 n75 n50 };
+c196 -- { n16 n63 n48 };
+c197 -- { n63 n94 n44 };
+c198 -- { n6 n53 n46 };
+c199 -- { n4 n63 n24 };
+c200 -- { n71 n51 n10 };
+c201 -- { n34 n39 n46 };
+c202 -- { n63 n100 n44 };
+c203 -- { n63 n100 n5 };
+c204 -- { n63 n44 n84 };
+c205 -- { n71 n37 n51 };
+c206 -- { n71 n92 n54 };
+c207 -- { n82 n25 n63 };
+c208 -- { n9 n65 n46 };
+c209 -- { n63 n44 n94 };
+c210 -- { n37 n71 n11 };
+c211 -- { n59 n11 n95 };
+c212 -- { n64 n63 n32 };
+c213 -- { n37 n71 n51 };
+c214 -- { n39 n34 n46 };
+c215 -- { n53 n63 n46 };
+c216 -- { n99 n90 n54 };
+c217 -- { n76 n54 n63 };
+c218 -- { n23 n19 n27 };
+c219 -- { n20 n54 n33 };
+c220 -- { n37 n71 n11 };
+c221 -- { n32 n1 n63 };
+c222 -- { n76 n54 n18 };
+c223 -- { n53 n63 n46 };
+c224 -- { n87 n30 n61 };
+c225 -- { n71 n37 n51 };
+c226 -- { n27 n63 n72 };
+c227 -- { n23 n19 n27 };
+c228 -- { n46 n13 n89 };
+c229 -- { n46 n86 n34 };
+c230 -- { n74 n75 n63 };
+c231 -- { n63 n100 n5 };
+c232 -- { n54 n33 n12 };
+c233 -- { n32 n63 n1 };
+c234 -- { n98 n63 n4 };
+c235 -- { n37 n71 n51 };
+c236 -- { n7 n46 n86 };
+c237 -- { n2 n46 n97 };
+c238 -- { n54 n93 n63 };
+c239 -- { n20 n33 n54 };
+c240 -- { n65 n46 n61 };
+c241 -- { n25 n19 n63 };
+c242 -- { n49 n72 n60 };
+c243 -- { n28 n63 n72 };
+c244 -- { n54 n79 n35 };
+c245 -- { n46 n13 n89 };
+c246 -- { n34 n39 n77 };
+c247 -- { n86 n46 n7 };
+c248 -- { n52 n72 n63 };
+c249 -- { n95 n46 n59 };
+c250 -- { n75 n63 n74 };
+c251 -- { n92 n71 n54 };
+c252 -- { n65 n46 n34 };
+c253 -- { n54 n93 n63 };
+c254 -- { n68 n8 n63 };
+c255 -- { n11 n71 n37 };
+c256 -- { n25 n82 n63 };
+c257 -- { n63 n44 n84 };
+c258 -- { n12 n54 n33 };
+c259 -- { n71 n51 n31 };
+c260 -- { n6 n87 n46 };
+c261 -- { n71 n10 n51 };
+c262 -- { n95 n46 n59 };
+c263 -- { n85 n63 n32 };
+c264 -- { n2 n46 n97 };
+c265 -- { n22 n61 n87 };
+c266 -- { n46 n86 n34 };
+c267 -- { n76 n54 n63 };
+c268 -- { n35 n79 n54 };
+c269 -- { n63 n72 n62 };
+c270 -- { n46 n7 n89 };
+c271 -- { n63 n44 n88 };
+c272 -- { n23 n27 n19 };
+c273 -- { n46 n43 n26 };
+c274 -- { n63 n72 n29 };
+c275 -- { n3 n4 n63 };
+c276 -- { n40 n42 n8 };
+c277 -- { n34 n39 n46 };
+c278 -- { n28 n63 n72 };
+c279 -- { n63 n44 n94 };
+c280 -- { n76 n18 n54 };
+c281 -- { n72 n63 n60 };
+c282 -- { n59 n95 n46 };
+c283 -- { n63 n72 n62 };
+c284 -- { n54 n76 n63 };
+c285 -- { n30 n87 n46 };
+c286 -- { n11 n59 n71 };
+c287 -- { n63 n44 n94 };
+c288 -- { n52 n72 n63 };
+c289 -- { n63 n72 n28 };
+c290 -- { n46 n67 n2 };
+c291 -- { n34 n46 n39 };
+c292 -- { n93 n54 n63 };
+c293 -- { n47 n24 n4 };
+c294 -- { n27 n23 n63 };
+c295 -- { n72 n63 n60 };
+c296 -- { n72 n60 n63 };
+c297 -- { n59 n95 n11 };
+c298 -- { n3 n63 n4 };
+c299 -- { n81 n54 n90 };
+c300 -- { n95 n83 n59 };
+c301 -- { n27 n63 n28 };
+c302 -- { n92 n71 n54 };
+c303 -- { n71 n92 n54 };
+c304 -- { n71 n51 n41 };
+c305 -- { n92 n54 n71 };
+c306 -- { n46 n13 n89 };
+c307 -- { n34 n46 n39 };
+c308 -- { n63 n44 n55 };
+c309 -- { n11 n59 n71 };
+c310 -- { n82 n63 n46 };
+c311 -- { n33 n20 n54 };
+c312 -- { n51 n71 n41 };
+c313 -- { n33 n54 n20 };
+c314 -- { n92 n54 n71 };
+c315 -- { n61 n87 n46 };
+c316 -- { n85 n63 n32 };
+c317 -- { n49 n60 n72 };
+c318 -- { n63 n72 n52 };
+c319 -- { n96 n63 n75 };
+c320 -- { n82 n63 n46 };
+c321 -- { n11 n71 n59 };
+c322 -- { n87 n61 n30 };
+c323 -- { n85 n63 n4 };
+c324 -- { n39 n34 n46 };
+c325 -- { n46 n80 n89 };
+c326 -- { n63 n84 n44 };
+c327 -- { n46 n89 n56 };
+c328 -- { n98 n63 n4 };
+c329 -- { n54 n93 n63 };
+c330 -- { n72 n63 n58 };
+c331 -- { n46 n65 n61 };
+c332 -- { n63 n3 n40 };
+c333 -- { n12 n54 n33 };
+c334 -- { n32 n63 n1 };
+c335 -- { n46 n34 n39 };
+c336 -- { n30 n87 n61 };
+c337 -- { n6 n53 n46 };
+c338 -- { n33 n20 n54 };
+c339 -- { n28 n63 n72 };
+c340 -- { n54 n90 n81 };
+c341 -- { n3 n4 n63 };
+c342 -- { n76 n18 n54 };
+c343 -- { n6 n53 n46 };
+c344 -- { n26 n43 n97 };
+c345 -- { n46 n34 n89 };
+c346 -- { n95 n73 n59 };
+c347 -- { n87 n61 n46 };
+c348 -- { n46 n2 n67 };
+c349 -- { n71 n51 n41 };
+c350 -- { n25 n63 n82 };
+c351 -- { n10 n71 n51 };
+c352 -- { n21 n58 n72 };
+c353 -- { n46 n67 n89 };
+c354 -- { n46 n67 n2 };
+c355 -- { n34 n46 n39 };
+c356 -- { n78 n76 n63 };
+c357 -- { n65 n46 n61 };
+c358 -- { n54 n93 n79 };
+c359 -- { n10 n71 n51 };
+c360 -- { n48 n63 n16 };
+c361 -- { n90 n81 n99 };
+c362 -- { n47 n24 n4 };
+c363 -- { n54 n81 n90 };
+c364 -- { n46 n34 n39 };
+c365 -- { n54 n79 n35 };
+c366 -- { n63 n72 n29 };
+c367 -- { n71 n51 n41 };
+c368 -- { n63 n32 n1 };
+c369 -- { n33 n54 n20 };
+c370 -- { n54 n79 n35 };
+c371 -- { n51 n71 n31 };
+c372 -- { n26 n43 n97 };
+c373 -- { n46 n13 n89 };
+c374 -- { n76 n18 n54 };
+c375 -- { n4 n24 n63 };
+c376 -- { n54 n90 n81 };
+c377 -- { n25 n63 n19 };
+c378 -- { n72 n63 n58 };
+c379 -- { n60 n57 n72 };
+c380 -- { n90 n81 n99 };
+c381 -- { n53 n6 n46 };
+c382 -- { n33 n54 n20 };
+c383 -- { n54 n76 n81 };
+c384 -- { n71 n51 n54 };
+c385 -- { n29 n63 n72 };
+c386 -- { n63 n72 n29 };
+c387 -- { n34 n46 n39 };
+c388 -- { n65 n46 n61 };
+c389 -- { n54 n93 n63 };
+c390 -- { n94 n63 n64 };
+c391 -- { n53 n63 n46 };
+c392 -- { n46 n89 n56 };
+c393 -- { n54 n70 n63 };
+c394 -- { n63 n84 n44 };
+c395 -- { n54 n93 n63 };
+c396 -- { n46 n34 n39 };
+c397 -- { n63 n44 n55 };
+c398 -- { n53 n6 n46 };
+c399 -- { n25 n82 n63 };
+c400 -- { n71 n31 n51 };
+}

@@ -1,0 +1,35 @@
+Popularity-Similarity random model for SAT instances
+
+Please, read and cite the detailed description in:
+
+@inproceedings{ijcai17,
+  author 	= {Jes{\'u}s Gir{\'a}ldez{-}Cru and Jordi Levy},
+  title 	= {Locality in Random {SAT} Instances},
+  booktitle 	= {Proc. of the 26th Int. Joint Conf. on Artificial Intelligence, IJCAI'17},
+  year 		= {2017},
+  pages     	= {638--644},	
+}
+
+Compilation:
+ $ make all
+
+Description/Help:
+ $ ./ps-sat -h
+
+c Popularity-Similarity SAT Instance Generator
+c Created by Jesús Giráldez Crú and Jordi Levy
+c
+c Usage: ./ps-sat [arguments]
+c    Arguments:
+c         -n <int>   : number of nodes (default=100)
+c         -m <int>   : number of clauses (default=400)
+c         -k <int>   : average clause size (default=0)
+c         -K <int>   : clause size for regular model (default=0)
+c         -b <float> : beta for variables (default=1)
+c         -B <float> : beta for clauses (default=1)
+c         -T <float> : temperature (default=0)
+c         -r         : varRename variables and reorder clauses so similar ones are closer (default=false)
+c         -s <int>   : random seed (default=0)
+c         -g         : print graph instead of CNF (default=false)
+c
+
