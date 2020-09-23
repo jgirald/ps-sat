@@ -13,13 +13,13 @@ using namespace std;
 ///////////////////////////////////////////////////////
 /* VARIABLES of the generator */
 
-int n = 100;  // Number of nodes
-int m = 400;  // Number of clauses
+int n = 1000;  // Number of nodes
+int m = 3700;  // Number of clauses
 int k = 0;    // Average size of clauses (flexible part)
 int K = 3;    // Rigid clause size
-double b = 1; // Beta for vars
-double B = 1; // Beta for clauses
-double T = 0; // Temperature
+double b = 0.83; // Beta for vars
+double B = 1.00; // Beta for clauses
+double T = 1.9; // Temperature
 bool varRename = false;  // if true varRename variables acording to angle
 int seed = 0; // Random seed
 bool pgraph = false;
